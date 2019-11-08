@@ -1,4 +1,5 @@
-# navbar_ui
+# Screenshot
+<img src="assets/navbar_ui.jpg" width="540" />
 
 A new Flutter project.
 
